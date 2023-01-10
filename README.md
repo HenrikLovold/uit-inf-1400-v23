@@ -1,8 +1,6 @@
 INF-1400 Objektorientert programmering - Våren 2022
 ================================
 
-**Informasjon om Korona og gjennomføring av kurset:** : [se her](korona.md)
-
 
 Praktisk informasjon
 --------------
