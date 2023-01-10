@@ -1,4 +1,4 @@
-INF-1400 Objektorientert programmering - Våren 2022
+INF-1400 Objektorientert programmering - Våren 2023
 ================================
 
 
