@@ -1,4 +1,4 @@
-Readings / literature for the INF-1400 course, 2022
+Readings / literature for the INF-1400 course, 2023
 ================
 
 
