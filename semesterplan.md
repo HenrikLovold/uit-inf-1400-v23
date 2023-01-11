@@ -9,9 +9,9 @@ Obligatoriske oppgaver
 |---:|----------|-------------------------------|--------|
 |  3 | Fr 13.01 | Oblig 1 ut                    |        |
 |  7 | Fr 03.02 | Oblig 1 inn                   |        |
-|    | Fr 10.02 | Oblig 2 ut                    |        |
+|  8 | Fr 10.02 | Oblig 2 ut                    |        |
 | 10 | Fr 03.03 | Oblig 2 inn                   |        |
-|    | Fr 10.03 | Oblig 3 ut                    |        |
+| 11 | Fr 10.03 | Oblig 3 ut                    |        |
 | 14 | To 14.04 | Oblig 3 inn                   |        |
 
 
