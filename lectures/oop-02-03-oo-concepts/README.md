@@ -1,4 +1,4 @@
-***Lecture notes - OOP - chapter 2-3
+#Lecture notes - OOP - chapter 2-3
 
 **Chapter 2:
 - Creating classes and instantiating objects
