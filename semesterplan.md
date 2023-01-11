@@ -26,7 +26,7 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 | Forelesning # | Kapittel | Tema                                             | Uke # + ukedag|
 |--------------:|---------:|-------------------------------------------------:|--------------:|
 |  1            |   1      | Introduksjon, Python and OO Introduction         |  2 tirsdag    |
-|  2            |   2      | OO Concepts                                      |  2 fredag     |
+|  2            |   2,3    | OO Concepts                                      |  2 fredag     |
 |  3            |   3      | OO Concepts continued                            |  3 tirsdag    |
 |  4            |   4      | Exceptions                                       |  4 tirsdag    |
 |  5            |          | Summary and practical examples                   |  4 fredag     |
