@@ -17,7 +17,7 @@
 Lage en klasse: Nøkkelord `class` 
 Klassenavnet bør starte med stor forbokstav (PEP 8).
 
-
+![Person klasse](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/Person.png)
 
 
 lag klassediagram og kode
