@@ -14,7 +14,10 @@
 
 ### Creating classes and instantiating objects
 
-Nøkkelord: class 
+Lage en klasse: Nøkkelord 'class' 
+Klassenavnet bør starte med stor forbokstav (PEP 8).
+
+
 
 lag klassediagram og kode
 Person(navn,alder)
