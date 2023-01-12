@@ -105,6 +105,23 @@ from math import factorial
 fakultet=factorial(5)
 ```
 
+eller bedre med alias
+
+```python
+from math import factorial as fac
+
+fakultet=fac(5)
+```
+
+Men ikke gjør dette (vil være vanskelig å vite hvilken metode/funksjon som faktisk kjøres om du har importert flere moduler/filer):
+
+```python
+from math import *
+
+fakultet=factorial(5)
+```
+
+
 ### Python docstring
 """Tekst""" øverst i moduler/klasser/metoder
 
