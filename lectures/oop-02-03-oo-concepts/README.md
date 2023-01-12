@@ -48,7 +48,8 @@ Vi ønsker å lage et Person-objekt som har alder på 21 år og som heter Ola No
 ```python
 p1=Person(21,"Ola Nordmann")
 ```
-Med tilsvarende objekt-diagram
+Med tilsvarende objekt-diagram:
+
 ![Person objektdiagram](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/Person-objekt.png)
 
 
