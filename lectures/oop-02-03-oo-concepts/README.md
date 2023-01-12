@@ -20,7 +20,7 @@ Metoder, attributter og parametere bør starte med liten forbokstav.
 
 Klassediagram Person-klasse:
 
-![Person klasse](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/Person.png)
+![Person klasse](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/Person2.png)
 
 
 Kode som tilsvarer klassediagrammet over:
