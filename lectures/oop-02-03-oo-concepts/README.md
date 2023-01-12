@@ -42,6 +42,16 @@ class Person:
         self.navn=navnet
 ```
 
+Lage et objekt: Bruk konstruktøren til klassen dvs klassenavnet() <-- med eventuelle argumenter som konstruktøren sier.
+Vi ønsker å lage et Person-objekt som har alder på 21 år og som heter Ola Nordmann.
+
+```python
+p1=Person(21,"Ola Nordmann")
+```
+
+
+
+
 lag objektdiagram og kode
 Person("Ola Nordmann", 21)
 
