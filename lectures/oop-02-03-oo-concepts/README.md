@@ -17,11 +17,30 @@
 Lage en klasse: Nøkkelord `class` 
 Klassenavnet bør starte med stor forbokstav (PEP 8).
 
+Klassediagram Person-klasse:
+
 ![Person klasse](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/Person.png)
 
-
-lag klassediagram og kode
-Person(navn,alder)
+Kode som tilsvarer klassediagrammet over:
+```
+class Person:
+    
+    def __init__(self,alderen:int,navnet:str)-> None:
+        self.alder = alderen
+        self.navn =navnet
+        
+    def getAlder(self):
+        return self.alder
+    
+    def setAlder(self,alderen):
+        self.alder = alderen
+             
+    def getNavn(self):
+        return self.navn
+    
+    def setNavn(self,navnet):
+        self.navn=navnet
+```
 
 lag objektdiagram og kode
 Person("Ola Nordmann", 21)
