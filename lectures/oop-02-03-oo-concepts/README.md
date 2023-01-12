@@ -15,7 +15,8 @@
 ### Creating classes and instantiating objects
 
 Lage en klasse: Nøkkelord `class` 
-Klassenavnet bør starte med stor forbokstav (PEP 8).
+Klassenavnet bør starte med stor forbokstav (PEP 8). 
+Metoder, attributter og parametere bør starte med liten forbokstav.
 
 Klassediagram Person-klasse:
 
