@@ -25,7 +25,7 @@ Kode som tilsvarer klassediagrammet over:
 ```python
 class Person:
     
-    def __init__(self,alderen:int,navnet:str)-> None:
+    def __init__(self,alderen,navnet):
         self.alder = alderen
         self.navn =navnet
         
