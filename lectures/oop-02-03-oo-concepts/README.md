@@ -57,6 +57,35 @@ Med tilsvarende objekt-diagram:
 
 ### Access control
 Innkapsling, private/protected/public -> Ikke i python, alt er public. Bruk underscore _ for å symbolisere at man ikke vil at andre skal lese/endre verdien direkte.
+```python
+class Person:
+    
+    def __init__(self,alderen,navnet):
+        self._alder = alderen
+        self._navn =navnet
+        
+    def getAlder(self):
+        return self._alder
+    
+    def setAlder(self,alderen):
+        if self._gyldigAlder(alderen):
+            self._alder = alderen
+        else:
+            self._alder=0
+        
+        
+    def getNavn(self):
+        return self._navn
+    
+    def setNavn(self,navnet):
+        self._navn=navnet
+        
+    def _gyldigAlder(self,alderen):
+        if alderen>=0:
+            return True
+        else:
+            return False
+```
 
 ### Python Modules
 Eksempler import
