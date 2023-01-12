@@ -56,7 +56,8 @@ Med tilsvarende objekt-diagram:
 
 
 ### Access control
-Innkapsling, private/protected/public -> Ikke i python, alt er public. Bruk underscore _ for å symbolisere at man ikke vil at andre skal lese/endre verdien direkte.
+Innkapsling, private/protected/public -> Ikke i python, alt er public. Bruk underscore _ fremfor attributter/metoder for å symbolisere at man ikke vil at andre skal lese/endre verdien direkte.
+
 ```python
 class Person:
     
