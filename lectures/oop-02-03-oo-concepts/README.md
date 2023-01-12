@@ -89,8 +89,21 @@ class Person:
 ```
 
 ### Python Modules
-Eksempler import
+For å importere moduler (.py-filer) bruker vi nøkkelordet `import`, eller `from`... `import`.
 
+```python
+import math
+
+fakultet=math.factorial(5)
+```
+
+eller 
+
+```python
+from math import factorial
+
+fakultet=factorial(5)
+```
 
 ### Python docstring
 """Tekst""" øverst i moduler/klasser/metoder
