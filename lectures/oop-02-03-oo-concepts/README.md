@@ -8,7 +8,7 @@
 
 ## Chapter 3
 - Basic inheritance
-- overriding and super
+- Overriding and super()
 
 
 ### Creating classes and instantiating objects
@@ -202,4 +202,3 @@ Alder er: 21 og navnet er: Kari utdanningen er: Informatikk og studentnummeret e
 ```
 
 
-`__init__` `__str__`
