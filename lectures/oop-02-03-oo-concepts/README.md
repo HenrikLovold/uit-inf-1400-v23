@@ -8,7 +8,6 @@
 
 ## Chapter 3
 - Basic inheritance
-- extending built-ins
 - overriding and super
 
 
@@ -125,11 +124,11 @@ fakultet=factorial(5)
 ### Python docstring
 """Tekst""" øverst i moduler/klasser/metoder
 
-### Basic inheritance
+### Basic inheritance, overriding and super()
 Fortsette med Person -> Ansatt, Student
 
-### Extending built-ins
-Arve fra build-ins-klasser
+
+
 
 ### Overriding and super
 `__init__` `__str__`
