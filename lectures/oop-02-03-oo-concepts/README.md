@@ -122,7 +122,7 @@ fakultet=factorial(5)
 
 
 ### Python docstring
-"""Tekst""" øverst i moduler/klasser/metoder for å beskrive/dokumentere hva modulen/klassen/metodene er/gjør.
+`"""Tekst"""` øverst i moduler/klasser/metoder for å beskrive/dokumentere hva modulen/klassen/metodene er/gjør.
 Eller vi kan bruke `#` i koden for å beskrive/dokumentere (fordel/ulempe er at vi må åpne filen for å lese kommentarene) 
 
 ```python
