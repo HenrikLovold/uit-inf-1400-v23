@@ -122,7 +122,37 @@ fakultet=factorial(5)
 
 
 ### Python docstring
-"""Tekst""" øverst i moduler/klasser/metoder
+"""Tekst""" øverst i moduler/klasser/metoder for å beskrive/dokumentere hva modulen/klassen/metodene er/gjør.
+Eller vi kan bruke `#` i koden for å beskrive/dokumentere (fordel/ulempe er at vi må åpne filen for å lese kommentarene) 
+
+```python
+class Person:
+    """Enkel klasse som beskriver en person med 2 attributter, alder og navn"""
+    
+    def __init__(self,alderen,navnet):
+        """Konstruktør som tar inn to argumenter. Alderen er en int og navnet er str
+         returner ingen verdier"""
+        self.alder = alderen
+        self.navn =navnet
+        
+    #Standard getter/setter-metoder    
+    def getAlder(self):
+        return self.alder
+    
+    def setAlder(self,alderen):
+        self.alder = alderen
+        
+    def getNavn(self):
+        return self.navn
+    
+    def setNavn(self,navnet):
+        self.navn=navnet
+        
+    def __str__(self):
+        """Overriding og tilpasser utskriften til en person"""
+        return "Alder er: "+str(self.alder) +" og navnet er: "\
+            +self.navn
+```
 
 ### Basic inheritance, overriding and super()
 Innfører to subklasser til Person. En Ansatt-klasse og en Student-klasse
