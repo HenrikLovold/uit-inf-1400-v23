@@ -127,8 +127,8 @@ fakultet=factorial(5)
 ### Basic inheritance, overriding and super()
 Fortsette med Person -> Ansatt, Student
 
+![subPerson-klassediagram](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/subPerson.png)
 
 
 
-### Overriding and super
 `__init__` `__str__`
