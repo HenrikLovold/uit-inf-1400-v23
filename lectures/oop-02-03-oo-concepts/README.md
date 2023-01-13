@@ -125,10 +125,81 @@ fakultet=factorial(5)
 """Tekst""" øverst i moduler/klasser/metoder
 
 ### Basic inheritance, overriding and super()
-Fortsette med Person -> Ansatt, Student
+Innfører to subklasser til Person. En Ansatt-klasse og en Student-klasse
 
 ![subPerson-klassediagram](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/subPerson.png)
 
+Tilsvarende kode til diagrammet:
+
+```python
+import person
+
+
+class Ansatt(person.Person):
+
+    def __init__(self, alderen, navnet, stillingen, lonnen):
+        super().__init__(alderen, navnet)
+        self.stilling = stillingen
+        self.lonn = lonnen
+
+    def getStilling(self):
+        return self.stilling
+
+    def setStilling(self, stillingen):
+        self.stilling = stillingen
+
+    def getLonn(self):
+        return self.lonn
+
+    def setLonn(self, lonnen):
+        self.lonn = lonnen
+        
+    def __str__(self):
+        return super().__str__()+" stillingen er: "+self.stilling\
+            +" og lønnen er: "+str(self.lonn)\
+            
+
+
+class Student(person.Person):
+
+    def __init__(self, alderen, navnet, utdanningen, studentNummeret):
+        person.Person.__init__(self, alderen, navnet)
+        self.utdanning = utdanningen
+        self.studentNummer = studentNummeret
+        
+    def getUtdanning(self):
+        return self.utdanning
+    
+    def setUtdanning(self,utdanningen):
+        self.utdanning = utdanningen
+        
+    def getStudentNummer(self):
+        return self.studentNummer
+    
+    def setStudenNummer(self,studentNummeret):
+        self.studentNummer = studentNummeret
+    
+    def __str__(self):
+        return person.Person.__str__(self)+" utdanningen er: "+self.utdanning\
+            +" og studentnummeret er: "+str(self.studentNummer)
+```
+
+Kode for å teste klassene
+
+```python
+if __name__ == "__main__":
+    a1 = Ansatt(33,"Ola","lektor",500000)
+    s1 = Student(21,"Kari","Informatikk",3432523)
+    print(a1)
+    print(s1)
+```
+
+Utskrift:
+
+```python
+Alder er: 33 og navnet er: Ola stillingen er: lektor og lønnen er: 500000
+Alder er: 21 og navnet er: Kari utdanningen er: Informatikk og studentnummeret er: 3432523
+```
 
 
 `__init__` `__str__`
