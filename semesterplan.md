@@ -28,7 +28,7 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  1            |   1      | Introduksjon, Python and OO Introduction         |  2 tirsdag    |
 |  2            |   2,3    | [OO Concepts](https://github.com/henrik2706/uit-inf-1400-v23/blob/main/lectures/oop-02-03-oo-concepts/README.md)                                      |  2 fredag     |
 |  3            |   3      | OO Concepts continued                            |  3 tirsdag    |
-|  4            |   4      | Summary and practical examples                                     |  4 tirsdag    |
+|  4            |   1,2,3      | Summary and practical examples                                     |  4 tirsdag    |
 |  5            |   4      | Exception                                        |  4 fredag     |
 |               |          | Oblig pause 1                                    |  5            |
 |  6            |          | Event-driven programming + introduction to pygame|  6 tirsdag    |
