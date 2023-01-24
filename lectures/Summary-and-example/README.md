@@ -14,16 +14,16 @@ Vi definerer følgende klasser:
 
 **Bygning:** 	Har navn og inneholder en liste over garasjer som er i denne bygningen. 
 	
-a)	Klassene Personbil, Motorsykkel og Varebil har noe til felles, og vi ønsker å generalisere ved å legge til en ny klasse og introdusere arv. Tegn klassediagram for klassene dine med denne generaliseringen. Du trenger ikke å ta med metoder i diagrammet, men ta med attributtene for klassene. 
+**a)**	Klassene Personbil, Motorsykkel og Varebil har noe til felles, og vi ønsker å generalisere ved å legge til en ny klasse og introdusere arv. Tegn klassediagram for klassene dine med denne generaliseringen. Du trenger ikke å ta med metoder i diagrammet, men ta med attributtene for klassene. 
  
-b)	Implementer klassene (skriv kode for klassene). Du trenger bare å ha med __init__() og  get/set-metoder. 
+**b)**	Implementer klassene (skriv kode for klassene). Du trenger bare å ha med __init__() og  get/set-metoder. 
  
-c)	Lag en metode finnAntall() for Garasjeklassen som vil returnere antall kjøretøy som er lagret i denne garasjen. 
+**c)**	Lag en metode finnAntall() for Garasjeklassen som vil returnere antall kjøretøy som er lagret i denne garasjen. 
  
-d)	Lag en metode finnIGarasje() for Garasjeklassen som vil returnere sann dersom kjøretøyet finnes i garasjen eller usann dersom den ikke gjør det. Metoden finnIGarasje() tar registreringsnummeret som parameter og bruker dette til å søke etter kjøretøyet. Eksempel på kall på metoden: garasjeobjekt.finnIGarasje("XX99999")  
+**d)**	Lag en metode finnIGarasje() for Garasjeklassen som vil returnere sann dersom kjøretøyet finnes i garasjen eller usann dersom den ikke gjør det. Metoden finnIGarasje() tar registreringsnummeret som parameter og bruker dette til å søke etter kjøretøyet. Eksempel på kall på metoden: garasjeobjekt.finnIGarasje("XX99999")  
  
-e)	Lag en metode skrivutAlle() for Bygningklassen som vil skrive ut informasjon om alle kjøretøyene som er lagret i bygningen.  
+**e)**	Lag en metode skrivutAlle() for Bygningklassen som vil skrive ut informasjon om alle kjøretøyene som er lagret i bygningen.  
  
-f)	Lag en funksjon som tester det du har laget
+**f)**	Lag en funksjon som tester det du har laget
 
-g)	Legg til andre metoder du tenker kan være nyttig og test dem ut i funksjonen du har laget i oppgave f)
+**g)**	Legg til andre metoder du tenker kan være nyttig og test dem ut i funksjonen du har laget i oppgave f)
