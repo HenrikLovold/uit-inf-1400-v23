@@ -33,7 +33,7 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |               |          | Oblig pause 1                                    |  5            |
 |  6            |          | Event-driven programming + introduction to pygame|  6 tirsdag    |
 |  7            |          | Programmer's toolchest                           |  6 fredag     |
-|  8            |   5      | [When to use Object-Oriented Programming](https://github.com/henrik2706/uit-inf-1400-v23/tree/main/lectures/OOP-When%20to%20use%20OOP))          |  7 tirsdag    |
+|  8            |   5      | [When to use Object-Oriented Programming](https://github.com/henrik2706/uit-inf-1400-v23/tree/main/lectures/OOP-When%20to%20use%20OOP)          |  7 tirsdag    |
 |  9            |   6      | Abstract base classes, Operator overloading      |  7 fredag     |
 | 10            |   7      | Python Data Structures                           |  8 tirsdag    |
 | 11            |          | Summary and practical examples                   |  8 fredag     |
