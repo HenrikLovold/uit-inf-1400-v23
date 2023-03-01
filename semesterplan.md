@@ -12,7 +12,7 @@ Obligatoriske oppgaver
 |  8 | Fr 10.02 | Oblig 2 ut                    |        |
 | 10 | Fr 03.03 | Oblig 2 inn                   |        |
 | 11 | Fr 10.03 | Oblig 3 ut                    |        |
-| 14 | To 14.04 | Oblig 3 inn                   |        |
+| 14 | Fr 14.04 | Oblig 3 inn                   |        |
 
 
 Forelesninger
