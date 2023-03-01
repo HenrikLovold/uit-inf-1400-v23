@@ -46,7 +46,8 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 | 16            |          | Summary and practical examples                   |  13 tirsdag   |
 |               |          | Easter                                           |  14 tirsdag   |
 |               |          | Oblig pause 3                                    |  15 tirsdag   |
-|               |          | Self study, exam prep, no lectures               |  16           |
+|               |          | Exam prep                                        |  16 tirsdag  
+|               |          | Exam prep                                        |  16 fredag
 |               |          | Self study, exam prep, no lectures               |  17           |
 | 17            |          | Summary, exam prep, with lectures                |  18 tirsdag   |
 | 18            |          | Summary, exam prep, with lectures                |  19 tirsdag   |
