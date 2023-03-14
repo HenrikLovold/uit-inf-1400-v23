@@ -39,7 +39,7 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 | 11            |          | Summary and practical examples                   |  8 fredag     |
 |               |          | Oblig pause 2                                    |  9            |
 |               |          | Winter break                                     |  10           |
-| 12            |  13      | [Testing Object-Oriented Programs] (https://github.com/henrik2706/uit-inf-1400-v23/tree/main/lectures/OOP13-Test)                 |  11 tirsdag   |
+| 12            |  13      | [Testing Object-Oriented Programs](https://github.com/henrik2706/uit-inf-1400-v23/tree/main/lectures/OOP13-Test)                 |  11 tirsdag   |
 | 13            |   8      | Context managers, stop writing classes.          |  11 fredag    |
 | 14            | 8,9      | OOP and Functional / Strings, serial, file paths |  12 tirsdag   |
 | 15            |  10      | Iterator Pattern                                 |  12 fredag    |
